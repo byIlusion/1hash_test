@@ -1,0 +1,15 @@
+
+.content-panel {
+  margin: 0.75em 0;
+  padding: 1em 0.5em;
+  border: 1px solid #aaa8a8;
+  border-radius: 0.5em;
+  box-shadow: 5px 5px 15px #00000033;
+}
+
+.rate-item {
+/*  box-shadow: 3px 3px 10px #00000022;*/
+}
+.rate-item > div > div:not(:last-child) {
+  border-right: 1px solid #aaa;
+}
